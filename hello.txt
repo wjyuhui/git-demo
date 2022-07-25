@@ -7,3 +7,4 @@ hot-fix set
 我令狐冲又加了两招
 我东方不败又加啦一招
 使用了ssh登陆了，在测试一下push
+jim 添加了 very-cool 功能
